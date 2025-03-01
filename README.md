@@ -11,5 +11,6 @@ step 5 : go jenkins website & install some plugins
 step 6 : go login dockerhub website
 step 7 : Connect Jenkins Credentials to Docker
 step 8 : Setup Email notification (go setup Gmail.com than jenkins)
-step 9 : Write Jenkins Pipeline (for download code from GitHub)
+step 9 : Write Jenkins Pipeline (for download code from GitHub or scan docker img)
 step 10 : 
+
